@@ -82,4 +82,4 @@ Code	Class	Bucket
 7–9, 13, 14	Tracks / paper roads / ferries	excluded from routing entirely
 
 
-Funny Exampels: https://github.com/Sam-Dabo/Inconvenient-Cost-Path/blob/4018910a5f9ae05f7ec5935fe8cf17ddf985e5f6/Zoom.png
+Funny Exampels: ![image alt](https://github.com/Sam-Dabo/Inconvenient-Cost-Path/blob/4018910a5f9ae05f7ec5935fe8cf17ddf985e5f6/Zoom.png)
