@@ -83,3 +83,9 @@ Code	Class	Bucket
 
 
 Funny Exampels: ![image alt](https://github.com/Sam-Dabo/Inconvenient-Cost-Path/blob/4018910a5f9ae05f7ec5935fe8cf17ddf985e5f6/Zoom.png)
+
+
+
+Current bugs - 
+
+Recognition of bridges where roads go through them
